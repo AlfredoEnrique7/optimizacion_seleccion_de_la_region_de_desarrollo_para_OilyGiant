@@ -43,4 +43,4 @@ Aunque la Región 1 registra el promedio de reservas en bruto más bajo de todo 
 
 ---
 ### Ver el análisis completo
-👉 [Haz clic aquí para ver el código y los gráficos interactivos](optimizacion_seleccion_de_la_region_de_desarrollo_para_OilyGiant)
+👉 [Haz clic aquí para ver el código y los gráficos interactivos](optimizacion_seleccion_de_la_region_de_desarrollo_para_OilyGiant.ipynb)
